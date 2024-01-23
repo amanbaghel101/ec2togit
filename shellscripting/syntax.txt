@@ -1,0 +1,55 @@
+#Conditional Statement:
+				if - statement
+				if -else -statement
+				if -elif - statement 
+				Nested if
+				Case
+				
+			i. If - statement
+						if [ condition ];
+							then
+								statement
+						fi
+						
+			ii. If -else -statement
+						if [ condition ];
+							then 
+								statement1
+							else
+								Statement2
+						fi
+						
+			iii. If -elif - statement
+						if [ condition ];
+							then 
+								statement1
+						elif [ condition ];
+							then
+								Statement2
+						        else
+								statement3 
+						fi
+			
+#Lopping Statement: 
+				for
+				while
+				until
+				
+			i. For loop => 
+						For var in list
+							Do
+								Statement
+							Done
+							
+			ii. While loop =>
+						While [        ]
+							Do
+								Statement
+							Done
+							
+			iii. Until loop =>
+						Until [       ]
+							Do
+								Statement
+							done
+
